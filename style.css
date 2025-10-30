@@ -180,8 +180,11 @@ h1{
     height: auto;
     word-wrap: break-word;
   }
-
+  .h{
+      flex-wrap: wrap;
+  }
   body {
     overflow-x: clip; 
   }
 }
+
